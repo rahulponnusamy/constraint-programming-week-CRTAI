@@ -1,0 +1,2302 @@
+{
+  "nrPrecedences": 91,
+  "nrAthletesPerSession": 250,
+  "nrSessions": 16,
+  "activity": [
+    {
+      "phase": "Round1",
+      "duration": 16,
+      "nr": 1,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics 4 x 400m Relay Mixed",
+      "participants": 64
+    },
+    {
+      "phase": "Final",
+      "duration": 4,
+      "nr": 2,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics 4 x 400m Relay Mixed",
+      "participants": 32
+    },
+    {
+      "phase": "Final",
+      "duration": 30,
+      "nr": 3,
+      "stageNr": 1,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 10,000m",
+      "participants": 27
+    },
+    {
+      "phase": "PreliminaryRound",
+      "duration": 25,
+      "nr": 4,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 100m",
+      "participants": 46
+    },
+    {
+      "phase": "Round1",
+      "duration": 49,
+      "nr": 5,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 100m",
+      "participants": 72
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 17,
+      "nr": 6,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 100m",
+      "participants": 27
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 7,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 100m",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 33,
+      "nr": 8,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 110m Hurdles",
+      "participants": 40
+    },
+    {
+      "phase": "Repechage",
+      "duration": 17,
+      "nr": 9,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 110m Hurdles",
+      "participants": 21
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 17,
+      "nr": 10,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 110m Hurdles",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 11,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 110m Hurdles",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 26,
+      "nr": 12,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 1500m",
+      "participants": 45
+    },
+    {
+      "phase": "Repechage",
+      "duration": 15,
+      "nr": 13,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 1500m",
+      "participants": 27
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 14,
+      "nr": 14,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 1500m",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 4,
+      "nr": 15,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 1500m",
+      "participants": 12
+    },
+    {
+      "phase": "Round1",
+      "duration": 36,
+      "nr": 16,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 200m",
+      "participants": 45
+    },
+    {
+      "phase": "Repechage",
+      "duration": 25,
+      "nr": 17,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 200m",
+      "participants": 25
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 17,
+      "nr": 18,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 200m",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 19,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 200m",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 41,
+      "nr": 20,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 3000m Steeplechase",
+      "participants": 36
+    },
+    {
+      "phase": "Final",
+      "duration": 9,
+      "nr": 21,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 3000m Steeplechase",
+      "participants": 16
+    },
+    {
+      "phase": "Round1",
+      "duration": 10,
+      "nr": 22,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 4 x 100m Relay",
+      "participants": 64
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 23,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 4 x 100m Relay",
+      "participants": 32
+    },
+    {
+      "phase": "Round1",
+      "duration": 16,
+      "nr": 24,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 4 x 400m Relay",
+      "participants": 64
+    },
+    {
+      "phase": "Final",
+      "duration": 3,
+      "nr": 25,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 4 x 400m Relay",
+      "participants": 36
+    },
+    {
+      "phase": "Round1",
+      "duration": 36,
+      "nr": 26,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 400m",
+      "participants": 46
+    },
+    {
+      "phase": "Repechage",
+      "duration": 25,
+      "nr": 27,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 400m",
+      "participants": 26
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 15,
+      "nr": 28,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 400m",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 29,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 400m",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 33,
+      "nr": 30,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 400m Hurdles",
+      "participants": 39
+    },
+    {
+      "phase": "Repechage",
+      "duration": 17,
+      "nr": 31,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 400m Hurdles",
+      "participants": 19
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 17,
+      "nr": 32,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 400m Hurdles",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 33,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 400m Hurdles",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 35,
+      "nr": 34,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 5000m",
+      "participants": 41
+    },
+    {
+      "phase": "Final",
+      "duration": 15,
+      "nr": 35,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 5000m",
+      "participants": 22
+    },
+    {
+      "phase": "Round1",
+      "duration": 42,
+      "nr": 36,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 800m",
+      "participants": 53
+    },
+    {
+      "phase": "Repechage",
+      "duration": 26,
+      "nr": 37,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 800m",
+      "participants": 35
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 22,
+      "nr": 38,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's 800m",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 2,
+      "nr": 39,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's 800m",
+      "participants": 8
+    },
+    {
+      "phase": "Run100m",
+      "duration": 17,
+      "nr": 40,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's Decathlon",
+      "participants": 22
+    },
+    {
+      "phase": "LongJump",
+      "duration": 42,
+      "nr": 41,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Long Jump",
+      "event": "Athletics Men's Decathlon",
+      "participants": 22
+    },
+    {
+      "phase": "ShotPut",
+      "duration": 42,
+      "nr": 42,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Shot Put",
+      "event": "Athletics Men's Decathlon",
+      "participants": 22
+    },
+    {
+      "phase": "HighJump",
+      "duration": 130,
+      "nr": 43,
+      "stageNr": 4,
+      "finals": 0,
+      "resource": "High Jump",
+      "event": "Athletics Men's Decathlon",
+      "participants": 22
+    },
+    {
+      "phase": "Run400m",
+      "duration": 17,
+      "nr": 44,
+      "stageNr": 5,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's Decathlon",
+      "participants": 22
+    },
+    {
+      "phase": "Run110mHurdles",
+      "duration": 17,
+      "nr": 45,
+      "stageNr": 6,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Men's Decathlon",
+      "participants": 21
+    },
+    {
+      "phase": "DiscusThrow",
+      "duration": 36,
+      "nr": 46,
+      "stageNr": 7,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Decathlon",
+      "participants": 10
+    },
+    {
+      "phase": "DiscusThrow",
+      "duration": 36,
+      "nr": 47,
+      "stageNr": 8,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Decathlon",
+      "participants": 10
+    },
+    {
+      "phase": "PoleVault",
+      "duration": 136,
+      "nr": 48,
+      "stageNr": 9,
+      "finals": 0,
+      "resource": "Pole Vault",
+      "event": "Athletics Men's Decathlon",
+      "participants": 21
+    },
+    {
+      "phase": "JavelinThrow",
+      "duration": 36,
+      "nr": 49,
+      "stageNr": 10,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Decathlon",
+      "participants": 10
+    },
+    {
+      "phase": "JavelinThrow",
+      "duration": 36,
+      "nr": 50,
+      "stageNr": 11,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Decathlon",
+      "participants": 10
+    },
+    {
+      "phase": "Run1500m",
+      "duration": 5,
+      "nr": 51,
+      "stageNr": 12,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Men's Decathlon",
+      "participants": 20
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 52,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Discus Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 53,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Discus Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Final",
+      "duration": 70,
+      "nr": 54,
+      "stageNr": 3,
+      "finals": 1,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Discus Throw",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 55,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Hammer Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 56,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Hammer Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Final",
+      "duration": 70,
+      "nr": 57,
+      "stageNr": 3,
+      "finals": 1,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Hammer Throw",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 130,
+      "nr": 58,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "High Jump",
+      "event": "Athletics Men's High Jump",
+      "participants": 31
+    },
+    {
+      "phase": "Final",
+      "duration": 113,
+      "nr": 59,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "High Jump",
+      "event": "Athletics Men's High Jump",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 60,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Javelin Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 61,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Javelin Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Final",
+      "duration": 70,
+      "nr": 62,
+      "stageNr": 3,
+      "finals": 1,
+      "resource": "Long Throws",
+      "event": "Athletics Men's Javelin Throw",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 63,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Long Jump",
+      "event": "Athletics Men's Long Jump",
+      "participants": 33
+    },
+    {
+      "phase": "Final",
+      "duration": 80,
+      "nr": 64,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Long Jump",
+      "event": "Athletics Men's Long Jump",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 140,
+      "nr": 65,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Pole Vault",
+      "event": "Athletics Men's Pole Vault",
+      "participants": 31
+    },
+    {
+      "phase": "Final",
+      "duration": 147,
+      "nr": 66,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Pole Vault",
+      "event": "Athletics Men's Pole Vault",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 48,
+      "nr": 67,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Shot Put",
+      "event": "Athletics Men's Shot Put",
+      "participants": 31
+    },
+    {
+      "phase": "Final",
+      "duration": 70,
+      "nr": 68,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Shot Put",
+      "event": "Athletics Men's Shot Put",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 64,
+      "nr": 69,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Triple Jump",
+      "event": "Athletics Men's Triple Jump",
+      "participants": 32
+    },
+    {
+      "phase": "Final",
+      "duration": 85,
+      "nr": 70,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Triple Jump",
+      "event": "Athletics Men's Triple Jump",
+      "participants": 12
+    },
+    {
+      "phase": "Final",
+      "duration": 34,
+      "nr": 71,
+      "stageNr": 1,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 10,000m",
+      "participants": 25
+    },
+    {
+      "phase": "PreliminaryRound",
+      "duration": 22,
+      "nr": 72,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 100m",
+      "participants": 36
+    },
+    {
+      "phase": "Round1",
+      "duration": 49,
+      "nr": 73,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 100m",
+      "participants": 72
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 17,
+      "nr": 74,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 100m",
+      "participants": 27
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 75,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 100m",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 33,
+      "nr": 76,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 100m Hurdles",
+      "participants": 40
+    },
+    {
+      "phase": "Repechage",
+      "duration": 17,
+      "nr": 77,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 100m Hurdles",
+      "participants": 21
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 17,
+      "nr": 78,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 100m Hurdles",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 79,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 100m Hurdles",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 29,
+      "nr": 80,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 1500m",
+      "participants": 44
+    },
+    {
+      "phase": "Repechage",
+      "duration": 17,
+      "nr": 81,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 1500m",
+      "participants": 25
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 17,
+      "nr": 82,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 1500m",
+      "participants": 25
+    },
+    {
+      "phase": "Final",
+      "duration": 4,
+      "nr": 83,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 1500m",
+      "participants": 12
+    },
+    {
+      "phase": "Round1",
+      "duration": 41,
+      "nr": 84,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 200m",
+      "participants": 47
+    },
+    {
+      "phase": "Repechage",
+      "duration": 25,
+      "nr": 85,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 200m",
+      "participants": 27
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 15,
+      "nr": 86,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 200m",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 87,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 200m",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 40,
+      "nr": 88,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 3000m Steeplechase",
+      "participants": 36
+    },
+    {
+      "phase": "Final",
+      "duration": 10,
+      "nr": 89,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 3000m Steeplechase",
+      "participants": 15
+    },
+    {
+      "phase": "Round1",
+      "duration": 10,
+      "nr": 90,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 4 x 100m Relay",
+      "participants": 64
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 91,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 4 x 100m Relay",
+      "participants": 32
+    },
+    {
+      "phase": "Round1",
+      "duration": 16,
+      "nr": 92,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 4 x 400m Relay",
+      "participants": 64
+    },
+    {
+      "phase": "Final",
+      "duration": 4,
+      "nr": 93,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 4 x 400m Relay",
+      "participants": 32
+    },
+    {
+      "phase": "Round1",
+      "duration": 41,
+      "nr": 94,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 400m",
+      "participants": 47
+    },
+    {
+      "phase": "Repechage",
+      "duration": 25,
+      "nr": 95,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 400m",
+      "participants": 27
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 17,
+      "nr": 96,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 400m",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 97,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 400m",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 33,
+      "nr": 98,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 400m Hurdles",
+      "participants": 40
+    },
+    {
+      "phase": "Repechage",
+      "duration": 17,
+      "nr": 99,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 400m Hurdles",
+      "participants": 21
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 21,
+      "nr": 100,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 400m Hurdles",
+      "participants": 25
+    },
+    {
+      "phase": "Final",
+      "duration": 1,
+      "nr": 101,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 400m Hurdles",
+      "participants": 8
+    },
+    {
+      "phase": "Round1",
+      "duration": 44,
+      "nr": 102,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 5000m",
+      "participants": 41
+    },
+    {
+      "phase": "Final",
+      "duration": 17,
+      "nr": 103,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 5000m",
+      "participants": 16
+    },
+    {
+      "phase": "Round1",
+      "duration": 42,
+      "nr": 104,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 800m",
+      "participants": 50
+    },
+    {
+      "phase": "Repechage",
+      "duration": 26,
+      "nr": 105,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 800m",
+      "participants": 31
+    },
+    {
+      "phase": "SemiFinal",
+      "duration": 22,
+      "nr": 106,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's 800m",
+      "participants": 24
+    },
+    {
+      "phase": "Final",
+      "duration": 2,
+      "nr": 107,
+      "stageNr": 4,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's 800m",
+      "participants": 8
+    },
+    {
+      "phase": "Qualification",
+      "duration": 52,
+      "nr": 108,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Discus Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Qualification",
+      "duration": 52,
+      "nr": 109,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Discus Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Final",
+      "duration": 70,
+      "nr": 110,
+      "stageNr": 3,
+      "finals": 1,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Discus Throw",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 111,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Hammer Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 112,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Hammer Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Final",
+      "duration": 70,
+      "nr": 113,
+      "stageNr": 3,
+      "finals": 1,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Hammer Throw",
+      "participants": 12
+    },
+    {
+      "phase": "Run100mHurdles",
+      "duration": 17,
+      "nr": 114,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's Heptathlon",
+      "participants": 23
+    },
+    {
+      "phase": "HighJump",
+      "duration": 104,
+      "nr": 115,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "High Jump",
+      "event": "Athletics Women's Heptathlon",
+      "participants": 23
+    },
+    {
+      "phase": "ShotPut",
+      "duration": 42,
+      "nr": 116,
+      "stageNr": 3,
+      "finals": 0,
+      "resource": "Shot Put",
+      "event": "Athletics Women's Heptathlon",
+      "participants": 23
+    },
+    {
+      "phase": "Run200m",
+      "duration": 17,
+      "nr": 117,
+      "stageNr": 4,
+      "finals": 0,
+      "resource": "Track",
+      "event": "Athletics Women's Heptathlon",
+      "participants": 23
+    },
+    {
+      "phase": "LongJump",
+      "duration": 42,
+      "nr": 118,
+      "stageNr": 5,
+      "finals": 0,
+      "resource": "Long Jump",
+      "event": "Athletics Women's Heptathlon",
+      "participants": 22
+    },
+    {
+      "phase": "JavelinThrow",
+      "duration": 42,
+      "nr": 119,
+      "stageNr": 6,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Heptathlon",
+      "participants": 11
+    },
+    {
+      "phase": "JavelinThrow",
+      "duration": 42,
+      "nr": 120,
+      "stageNr": 7,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Heptathlon",
+      "participants": 11
+    },
+    {
+      "phase": "Run800m",
+      "duration": 23,
+      "nr": 121,
+      "stageNr": 8,
+      "finals": 1,
+      "resource": "Track",
+      "event": "Athletics Women's Heptathlon",
+      "participants": 21
+    },
+    {
+      "phase": "Qualification",
+      "duration": 130,
+      "nr": 122,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "High Jump",
+      "event": "Athletics Women's High Jump",
+      "participants": 32
+    },
+    {
+      "phase": "Final",
+      "duration": 105,
+      "nr": 123,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "High Jump",
+      "event": "Athletics Women's High Jump",
+      "participants": 13
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 124,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Javelin Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 125,
+      "stageNr": 2,
+      "finals": 0,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Javelin Throw",
+      "participants": 16
+    },
+    {
+      "phase": "Final",
+      "duration": 78,
+      "nr": 126,
+      "stageNr": 3,
+      "finals": 1,
+      "resource": "Long Throws",
+      "event": "Athletics Women's Javelin Throw",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 68,
+      "nr": 127,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Long Jump",
+      "event": "Athletics Women's Long Jump",
+      "participants": 31
+    },
+    {
+      "phase": "Final",
+      "duration": 80,
+      "nr": 128,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Long Jump",
+      "event": "Athletics Women's Long Jump",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 140,
+      "nr": 129,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Pole Vault",
+      "event": "Athletics Women's Pole Vault",
+      "participants": 30
+    },
+    {
+      "phase": "Final",
+      "duration": 195,
+      "nr": 130,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Pole Vault",
+      "event": "Athletics Women's Pole Vault",
+      "participants": 19
+    },
+    {
+      "phase": "Qualification",
+      "duration": 56,
+      "nr": 131,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Shot Put",
+      "event": "Athletics Women's Shot Put",
+      "participants": 31
+    },
+    {
+      "phase": "Final",
+      "duration": 70,
+      "nr": 132,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Shot Put",
+      "event": "Athletics Women's Shot Put",
+      "participants": 12
+    },
+    {
+      "phase": "Qualification",
+      "duration": 64,
+      "nr": 133,
+      "stageNr": 1,
+      "finals": 0,
+      "resource": "Triple Jump",
+      "event": "Athletics Women's Triple Jump",
+      "participants": 31
+    },
+    {
+      "phase": "Final",
+      "duration": 77,
+      "nr": 134,
+      "stageNr": 2,
+      "finals": 1,
+      "resource": "Triple Jump",
+      "event": "Athletics Women's Triple Jump",
+      "participants": 12
+    }
+  ],
+  "nrEvents": 43,
+  "resources": [
+    "Track",
+    "Long Throws",
+    "High Jump",
+    "Long Jump",
+    "Shot Put",
+    "Triple Jump",
+    "Pole Vault"
+  ],
+  "sessionDuration": 240,
+  "nrResources": 7,
+  "conflicts": [
+    {
+      "event1": "Athletics 4 x 400m Relay Mixed",
+      "event2": "Athletics Women's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics 4 x 400m Relay Mixed",
+      "event2": "Athletics Men's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics 4 x 400m Relay Mixed",
+      "event2": "Athletics Women's 400m"
+    },
+    {
+      "event1": "Athletics 4 x 400m Relay Mixed",
+      "event2": "Athletics Men's 400m"
+    },
+    {
+      "event1": "Athletics 4 x 400m Relay Mixed",
+      "event2": "Athletics Women's 400m Hurdles"
+    },
+    {
+      "event1": "Athletics 4 x 400m Relay Mixed",
+      "event2": "Athletics Men's 4 x 100m Relay"
+    },
+    {
+      "event1": "Athletics 4 x 400m Relay Mixed",
+      "event2": "Athletics Men's 400m Hurdles"
+    },
+    {
+      "event1": "Athletics Men's 10,000m",
+      "event2": "Athletics Men's 5000m"
+    },
+    {
+      "event1": "Athletics Men's 100m",
+      "event2": "Athletics Men's 4 x 100m Relay"
+    },
+    {
+      "event1": "Athletics Men's 100m",
+      "event2": "Athletics Men's 200m"
+    },
+    {
+      "event1": "Athletics Men's 100m",
+      "event2": "Athletics Men's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Men's 1500m",
+      "event2": "Athletics Men's 5000m"
+    },
+    {
+      "event1": "Athletics Men's 1500m",
+      "event2": "Athletics Men's 800m"
+    },
+    {
+      "event1": "Athletics Men's 200m",
+      "event2": "Athletics Men's 4 x 100m Relay"
+    },
+    {
+      "event1": "Athletics Men's 200m",
+      "event2": "Athletics Men's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Men's 20km Race Walk",
+      "event2": "Athletics Marathon Race Walk Relay Mixed"
+    },
+    {
+      "event1": "Athletics Men's 4 x 100m Relay",
+      "event2": "Athletics Men's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Men's 400m",
+      "event2": "Athletics Men's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Men's 400m",
+      "event2": "Athletics Men's 200m"
+    },
+    {
+      "event1": "Athletics Men's 400m Hurdles",
+      "event2": "Athletics Men's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Women's 10,000m",
+      "event2": "Athletics Women's Marathon"
+    },
+    {
+      "event1": "Athletics Women's 100m",
+      "event2": "Athletics Women's 200m"
+    },
+    {
+      "event1": "Athletics Women's 100m",
+      "event2": "Athletics Women's 4 x 100m Relay"
+    },
+    {
+      "event1": "Athletics Women's 100m",
+      "event2": "Athletics Women's 100m Hurdles"
+    },
+    {
+      "event1": "Athletics Women's 1500m",
+      "event2": "Athletics Women's 10,000m"
+    },
+    {
+      "event1": "Athletics Women's 200m",
+      "event2": "Athletics Women's 4 x 100m Relay"
+    },
+    {
+      "event1": "Athletics Women's 200m",
+      "event2": "Athletics Women's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Women's 200m",
+      "event2": "Athletics Women's 400m"
+    },
+    {
+      "event1": "Athletics Women's 20km Race Walk",
+      "event2": "Athletics Marathon Race Walk Relay Mixed"
+    },
+    {
+      "event1": "Athletics Women's 3000m Steeplechase",
+      "event2": "Athletics Women's 10,000m"
+    },
+    {
+      "event1": "Athletics Women's 400m",
+      "event2": "Athletics Women's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Women's 400m Hurdles",
+      "event2": "Athletics Women's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Women's 5000m",
+      "event2": "Athletics Women's 10,000m"
+    },
+    {
+      "event1": "Athletics Women's 5000m",
+      "event2": "Athletics Women's 1500m"
+    },
+    {
+      "event1": "Athletics Women's 5000m",
+      "event2": "Athletics Women's 3000m Steeplechase"
+    },
+    {
+      "event1": "Athletics Women's 5000m",
+      "event2": "Athletics Women's Marathon"
+    },
+    {
+      "event1": "Athletics Women's 800m",
+      "event2": "Athletics Women's 4 x 400m Relay"
+    },
+    {
+      "event1": "Athletics Women's 800m",
+      "event2": "Athletics Women's 1500m"
+    },
+    {
+      "event1": "Athletics Women's Discus Throw",
+      "event2": "Athletics Women's Shot Put"
+    },
+    {
+      "event1": "Athletics Women's Triple Jump",
+      "event2": "Athletics Women's Long Jump"
+    },
+    {
+      "event1": "Athletics Women's Triple Jump",
+      "event2": "Athletics Women's 100m Hurdles"
+    }
+  ],
+  "precedences": [
+    {
+      "temporalRelation": "Same",
+      "before": "Run100mHurdles",
+      "after": "HighJump",
+      "beforeNr": 114,
+      "event": "Athletics Women's Heptathlon",
+      "afterNr": 115
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "HighJump",
+      "after": "ShotPut",
+      "beforeNr": 115,
+      "event": "Athletics Women's Heptathlon",
+      "afterNr": 116
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "ShotPut",
+      "after": "Run200m",
+      "beforeNr": 116,
+      "event": "Athletics Women's Heptathlon",
+      "afterNr": 117
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "Run200m",
+      "after": "LongJump",
+      "beforeNr": 117,
+      "event": "Athletics Women's Heptathlon",
+      "afterNr": 118
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "LongJump",
+      "after": "JavelinThrow",
+      "beforeNr": 118,
+      "event": "Athletics Women's Heptathlon",
+      "afterNr": 119
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "JavelinThrow",
+      "after": "JavelinThrow",
+      "beforeNr": 119,
+      "event": "Athletics Women's Heptathlon",
+      "afterNr": 120
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "JavelinThrow",
+      "after": "Run800m",
+      "beforeNr": 120,
+      "event": "Athletics Women's Heptathlon",
+      "afterNr": 121
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 16,
+      "event": "Athletics Men's 200m",
+      "afterNr": 17
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 17,
+      "event": "Athletics Men's 200m",
+      "afterNr": 18
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 18,
+      "event": "Athletics Men's 200m",
+      "afterNr": 19
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 67,
+      "event": "Athletics Men's Shot Put",
+      "afterNr": 68
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "Qualification",
+      "after": "Qualification",
+      "beforeNr": 60,
+      "event": "Athletics Men's Javelin Throw",
+      "afterNr": 61
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 61,
+      "event": "Athletics Men's Javelin Throw",
+      "afterNr": 62
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 133,
+      "event": "Athletics Women's Triple Jump",
+      "afterNr": 134
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 69,
+      "event": "Athletics Men's Triple Jump",
+      "afterNr": 70
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 98,
+      "event": "Athletics Women's 400m Hurdles",
+      "afterNr": 99
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 99,
+      "event": "Athletics Women's 400m Hurdles",
+      "afterNr": 100
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 100,
+      "event": "Athletics Women's 400m Hurdles",
+      "afterNr": 101
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 90,
+      "event": "Athletics Women's 4 x 100m Relay",
+      "afterNr": 91
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 8,
+      "event": "Athletics Men's 110m Hurdles",
+      "afterNr": 9
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 9,
+      "event": "Athletics Men's 110m Hurdles",
+      "afterNr": 10
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 10,
+      "event": "Athletics Men's 110m Hurdles",
+      "afterNr": 11
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 26,
+      "event": "Athletics Men's 400m",
+      "afterNr": 27
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 27,
+      "event": "Athletics Men's 400m",
+      "afterNr": 28
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 28,
+      "event": "Athletics Men's 400m",
+      "afterNr": 29
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "Qualification",
+      "after": "Qualification",
+      "beforeNr": 55,
+      "event": "Athletics Men's Hammer Throw",
+      "afterNr": 56
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 56,
+      "event": "Athletics Men's Hammer Throw",
+      "afterNr": 57
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "PreliminaryRound",
+      "after": "Round1",
+      "beforeNr": 72,
+      "event": "Athletics Women's 100m",
+      "afterNr": 73
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "SemiFinal",
+      "beforeNr": 73,
+      "event": "Athletics Women's 100m",
+      "afterNr": 74
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 74,
+      "event": "Athletics Women's 100m",
+      "afterNr": 75
+    },
+    {
+      "temporalRelation": "ThreeDays",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 34,
+      "event": "Athletics Men's 5000m",
+      "afterNr": 35
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 131,
+      "event": "Athletics Women's Shot Put",
+      "afterNr": 132
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "Qualification",
+      "after": "Qualification",
+      "beforeNr": 124,
+      "event": "Athletics Women's Javelin Throw",
+      "afterNr": 125
+    },
+    {
+      "temporalRelation": "ThreeDays",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 125,
+      "event": "Athletics Women's Javelin Throw",
+      "afterNr": 126
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 92,
+      "event": "Athletics Women's 4 x 400m Relay",
+      "afterNr": 93
+    },
+    {
+      "temporalRelation": "ThreeDays",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 58,
+      "event": "Athletics Men's High Jump",
+      "afterNr": 59
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 104,
+      "event": "Athletics Women's 800m",
+      "afterNr": 105
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 105,
+      "event": "Athletics Women's 800m",
+      "afterNr": 106
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 106,
+      "event": "Athletics Women's 800m",
+      "afterNr": 107
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 129,
+      "event": "Athletics Women's Pole Vault",
+      "afterNr": 130
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "Run100m",
+      "after": "LongJump",
+      "beforeNr": 40,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 41
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "LongJump",
+      "after": "ShotPut",
+      "beforeNr": 41,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 42
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "ShotPut",
+      "after": "HighJump",
+      "beforeNr": 42,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 43
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "HighJump",
+      "after": "Run400m",
+      "beforeNr": 43,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 44
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "Run400m",
+      "after": "Run110mHurdles",
+      "beforeNr": 44,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 45
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "Run110mHurdles",
+      "after": "DiscusThrow",
+      "beforeNr": 45,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 46
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "DiscusThrow",
+      "after": "DiscusThrow",
+      "beforeNr": 46,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 47
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "DiscusThrow",
+      "after": "PoleVault",
+      "beforeNr": 47,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 48
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "PoleVault",
+      "after": "JavelinThrow",
+      "beforeNr": 48,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 49
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "JavelinThrow",
+      "after": "JavelinThrow",
+      "beforeNr": 49,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 50
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "JavelinThrow",
+      "after": "Run1500m",
+      "beforeNr": 50,
+      "event": "Athletics Men's Decathlon",
+      "afterNr": 51
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 36,
+      "event": "Athletics Men's 800m",
+      "afterNr": 37
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 37,
+      "event": "Athletics Men's 800m",
+      "afterNr": 38
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 38,
+      "event": "Athletics Men's 800m",
+      "afterNr": 39
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 24,
+      "event": "Athletics Men's 4 x 400m Relay",
+      "afterNr": 25
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 94,
+      "event": "Athletics Women's 400m",
+      "afterNr": 95
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 95,
+      "event": "Athletics Women's 400m",
+      "afterNr": 96
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 96,
+      "event": "Athletics Women's 400m",
+      "afterNr": 97
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 30,
+      "event": "Athletics Men's 400m Hurdles",
+      "afterNr": 31
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 31,
+      "event": "Athletics Men's 400m Hurdles",
+      "afterNr": 32
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 32,
+      "event": "Athletics Men's 400m Hurdles",
+      "afterNr": 33
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 65,
+      "event": "Athletics Men's Pole Vault",
+      "afterNr": 66
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "PreliminaryRound",
+      "after": "Round1",
+      "beforeNr": 4,
+      "event": "Athletics Men's 100m",
+      "afterNr": 5
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "SemiFinal",
+      "beforeNr": 5,
+      "event": "Athletics Men's 100m",
+      "afterNr": 6
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 6,
+      "event": "Athletics Men's 100m",
+      "afterNr": 7
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "Qualification",
+      "after": "Qualification",
+      "beforeNr": 111,
+      "event": "Athletics Women's Hammer Throw",
+      "afterNr": 112
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 112,
+      "event": "Athletics Women's Hammer Throw",
+      "afterNr": 113
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 1,
+      "event": "Athletics 4 x 400m Relay Mixed",
+      "afterNr": 2
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 127,
+      "event": "Athletics Women's Long Jump",
+      "afterNr": 128
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "Qualification",
+      "after": "Qualification",
+      "beforeNr": 108,
+      "event": "Athletics Women's Discus Throw",
+      "afterNr": 109
+    },
+    {
+      "temporalRelation": "ThreeDays",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 109,
+      "event": "Athletics Women's Discus Throw",
+      "afterNr": 110
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 88,
+      "event": "Athletics Women's 3000m Steeplechase",
+      "afterNr": 89
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 122,
+      "event": "Athletics Women's High Jump",
+      "afterNr": 123
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 80,
+      "event": "Athletics Women's 1500m",
+      "afterNr": 81
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 81,
+      "event": "Athletics Women's 1500m",
+      "afterNr": 82
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 82,
+      "event": "Athletics Women's 1500m",
+      "afterNr": 83
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 12,
+      "event": "Athletics Men's 1500m",
+      "afterNr": 13
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 13,
+      "event": "Athletics Men's 1500m",
+      "afterNr": 14
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 14,
+      "event": "Athletics Men's 1500m",
+      "afterNr": 15
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 22,
+      "event": "Athletics Men's 4 x 100m Relay",
+      "afterNr": 23
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 76,
+      "event": "Athletics Women's 100m Hurdles",
+      "afterNr": 77
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 77,
+      "event": "Athletics Women's 100m Hurdles",
+      "afterNr": 78
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 78,
+      "event": "Athletics Women's 100m Hurdles",
+      "afterNr": 79
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 63,
+      "event": "Athletics Men's Long Jump",
+      "afterNr": 64
+    },
+    {
+      "temporalRelation": "Same",
+      "before": "Qualification",
+      "after": "Qualification",
+      "beforeNr": 52,
+      "event": "Athletics Men's Discus Throw",
+      "afterNr": 53
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Qualification",
+      "after": "Final",
+      "beforeNr": 53,
+      "event": "Athletics Men's Discus Throw",
+      "afterNr": 54
+    },
+    {
+      "temporalRelation": "ThreeDays",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 102,
+      "event": "Athletics Women's 5000m",
+      "afterNr": 103
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "Round1",
+      "after": "Repechage",
+      "beforeNr": 84,
+      "event": "Athletics Women's 200m",
+      "afterNr": 85
+    },
+    {
+      "temporalRelation": "PreviousSession",
+      "before": "Repechage",
+      "after": "SemiFinal",
+      "beforeNr": 85,
+      "event": "Athletics Women's 200m",
+      "afterNr": 86
+    },
+    {
+      "temporalRelation": "Yesterday",
+      "before": "SemiFinal",
+      "after": "Final",
+      "beforeNr": 86,
+      "event": "Athletics Women's 200m",
+      "afterNr": 87
+    },
+    {
+      "temporalRelation": "DayBeforeYesterday",
+      "before": "Round1",
+      "after": "Final",
+      "beforeNr": 20,
+      "event": "Athletics Men's 3000m Steeplechase",
+      "afterNr": 21
+    }
+  ],
+  "nrActivity": 134,
+  "events": [
+    "Athletics 4 x 400m Relay Mixed",
+    "Athletics Men's 10,000m",
+    "Athletics Men's 100m",
+    "Athletics Men's 110m Hurdles",
+    "Athletics Men's 1500m",
+    "Athletics Men's 200m",
+    "Athletics Men's 3000m Steeplechase",
+    "Athletics Men's 4 x 100m Relay",
+    "Athletics Men's 4 x 400m Relay",
+    "Athletics Men's 400m",
+    "Athletics Men's 400m Hurdles",
+    "Athletics Men's 5000m",
+    "Athletics Men's 800m",
+    "Athletics Men's Decathlon",
+    "Athletics Men's Discus Throw",
+    "Athletics Men's Hammer Throw",
+    "Athletics Men's High Jump",
+    "Athletics Men's Javelin Throw",
+    "Athletics Men's Long Jump",
+    "Athletics Men's Pole Vault",
+    "Athletics Men's Shot Put",
+    "Athletics Men's Triple Jump",
+    "Athletics Women's 10,000m",
+    "Athletics Women's 100m",
+    "Athletics Women's 100m Hurdles",
+    "Athletics Women's 1500m",
+    "Athletics Women's 200m",
+    "Athletics Women's 3000m Steeplechase",
+    "Athletics Women's 4 x 100m Relay",
+    "Athletics Women's 4 x 400m Relay",
+    "Athletics Women's 400m",
+    "Athletics Women's 400m Hurdles",
+    "Athletics Women's 5000m",
+    "Athletics Women's 800m",
+    "Athletics Women's Discus Throw",
+    "Athletics Women's Hammer Throw",
+    "Athletics Women's Heptathlon",
+    "Athletics Women's High Jump",
+    "Athletics Women's Javelin Throw",
+    "Athletics Women's Long Jump",
+    "Athletics Women's Pole Vault",
+    "Athletics Women's Shot Put",
+    "Athletics Women's Triple Jump"
+  ],
+  "nrConflicts": 41
+}
